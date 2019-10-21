@@ -1,3 +1,5 @@
+![logo](logo.png)
+
 # .NET Bratislava Meetup
 _The monthly meetup for .NET enthusiasts in Bratislava_
 
